@@ -33,6 +33,11 @@ AWS Certified Solutions Architect – Associate with 3+ years of experience as a
 * **Operating Systems:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 * **Network & Security:** DNS, VPN, VLANs, Firewalls, AWS IAM, Key Management (KMS)
 * **Governance & Continuity:** SOC2 practices, Backup & Disaster Recovery (DR) strategies
+
+
+💼 Work Experience
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
