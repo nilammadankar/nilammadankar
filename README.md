@@ -57,6 +57,10 @@ enabling real-time visibility and actionable insights.
 ● Configured intelligent alerting rules and thresholds based on performance metrics, error rates, and availability
 indicators to support proactive incident response.
 
+📜 Certifications
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● AWS Certified Solutions Architect – Associate (2026–2029)
+
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
