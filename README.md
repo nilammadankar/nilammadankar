@@ -15,6 +15,25 @@ AWS Certified Solutions Architect – Associate with 3+ years of experience as a
   <li>📊 Monitoring, Observability & RCA</li>
   <li>🔐 Cloud Security, IAM, Compliance & DR</li>
 </ul>
+
+🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+* **AWS Core:** ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Route53](https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=flat-square&logo=amazon&logoColor=white)
+* **Containers & Orchestration:** ![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazon&logoColor=white)
+* **Databases:** ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+* **AI & Next-Gen:** ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-8C4FFF?style=flat-square&logo=amazon&logoColor=white)
+
+### 📊 Monitoring & Observability
+* ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F4743B?style=flat-square&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+* **Native & Open:** AWS CloudWatch, CloudTrail, OpenTelemetry
+
+### ⚙️ OS, Networking & Security
+* **Operating Systems:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+* **Network & Security:** DNS, VPN, VLANs, Firewalls, AWS IAM, Key Management (KMS)
+* **Governance & Continuity:** SOC2 practices, Backup & Disaster Recovery (DR) strategies
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
