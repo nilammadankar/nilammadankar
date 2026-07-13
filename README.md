@@ -38,6 +38,25 @@ AWS Certified Solutions Architect – Associate with 3+ years of experience as a
 💼 Work Experience
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🏢 CloudOps Engineer (Cloud) — HotelKey India
+
+● Automated the build process using Jenkins, establishing a streamlined CI/CD pipeline for continuous build and
+deployment.
+
+● Created Dockerfiles, built container images, and pushed them to a private Docker registry to containerize applications.
+
+● Implemented Infrastructure as Code using Terraform to provision and manage cloud resources, improving consistency
+and team collaboration.
+
+● Managed application deployment using Kubernetes and Helm Charts, enabling container orchestration, scaling, and high
+availability.
+
+● Designed and implemented monitoring solutions for critical services using Prometheus, Grafana, and AWS CloudWatch,
+enabling real-time visibility and actionable insights.
+
+● Configured intelligent alerting rules and thresholds based on performance metrics, error rates, and availability
+indicators to support proactive incident response.
+
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
