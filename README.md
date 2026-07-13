@@ -2,7 +2,7 @@
 CloudOps & DevOps Engineer | AWS Solutions Architect Associate Certified | Kubernetes | Terraform | CI/CD | Open to Work
      <p align="center">
   🌐 <a href="#">[Portfolio](https://bold.pro/my/nilam-madankar26)</a> &nbsp;•&nbsp; 
-  💼 <a href="#">www.linkedin.com/in/nilam26</a> &nbsp;•&nbsp; 
+  💼 <a href="#">[Linkedin](www.linkedin.com/in/nilam26)</a> &nbsp;•&nbsp; 
   📧 <a href="mailto:madankarnilam@outlook.com">Email</a> &nbsp;•&nbsp; 
   🐙 <a href="#">[GitHub](https://github.com/nilammadankar)</a>
 </p>
