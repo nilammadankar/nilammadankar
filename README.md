@@ -16,7 +16,6 @@ AWS Certified Solutions Architect – Associate with 3+ years of experience as a
   <li>🔐 Cloud Security, IAM, Compliance & DR</li>
 </ul>
 
-🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
