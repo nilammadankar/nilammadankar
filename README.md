@@ -7,17 +7,17 @@ AWS Certified Solutions Architect – Associate with 3+ years of experience as a
 
 🧠 Core Expertise
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-☁️ AWS Cloud Architecture & Operations
+*☁️ AWS Cloud Architecture & Operations
 
-⚙️ Infrastructure as Code (Terraform, Ansible)
+*⚙️ Infrastructure as Code (Terraform, Ansible)
 
-🐳 Containerization & Orchestration (Docker, Kubernetes, Helm)
+*🐳 Containerization & Orchestration (Docker, Kubernetes, Helm)
 
-🚀 CI/CD Automation (GitHub Actions, Jenkins)
+*🚀 CI/CD Automation (GitHub Actions, Jenkins)
 
-📊 Monitoring, Observability & RCA
+*📊 Monitoring, Observability & RCA
 
-🔐 Cloud Security, IAM, Compliance & DR
+*🔐 Cloud Security, IAM, Compliance & DR
 
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
