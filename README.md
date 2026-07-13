@@ -1,6 +1,4 @@
 ## Hi 👋I'm Nilam Madankar
-Cloud & DevOps Engineer | AWS Solutions Architect Associate Certified | Kubernetes | Terraform | CI/CD
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **nilammadankar/nilammadankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
