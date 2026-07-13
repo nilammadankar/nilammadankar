@@ -2,7 +2,7 @@
 CloudOps & DevOps Engineer | AWS Solutions Architect Associate Certified | Kubernetes | Terraform | CI/CD | Open to Work
 
 👨‍💻 Professional Summary
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AWS Certified Solutions Architect – Associate with 3+ years of experience as a CloudOps Engineer, specializing in cloud infrastructure provisioning, automation, and production support. Experienced in AWS, Terraform, Docker, Kubernetes (EKS), Jenkins, Git, Linux, CloudWatch, and Datadog. Strong background in Infrastructure as Code, CI/CD implementation, monitoring, troubleshooting, and optimizing cloud environments for high availability, security, and cost efficiency. Passionate about automation, continuous learning, and delivering reliable cloud solutions.
 
 <!--
